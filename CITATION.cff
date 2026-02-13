@@ -1,0 +1,29 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: Русский стилеметрический датасет
+message: Please cite this software using these metadata
+type: dataset
+authors:
+  - given-names: Борис
+    family-names: Орехов
+    email: nevmenandr@gmail.com
+    affiliation: 'НИУ ВШЭ, ИРЛИ РАН'
+    orcid: 'https://orcid.org/0000-0002-9099-0436'
+repository-code: 'https://github.com/nevmenandr/RSD'
+abstract: >-
+  В репозитории размещены русскоязычные тексты,
+  приготовленные для стилеметрических экспериментов и
+  учебных занятий. Все тексты находятся в общественном
+  достоянии, сгруппированы по периодам, жанрам и объемам,
+  имена файлов подготовлены для обработки с помощью пакета
+  stylo для языка R. Текстовые коллекции в составе датасета
+  подходят для проверки гипотез, тестирования инструментов
+  автоматической классификации и организации учебных занятий
+  по компьютерному анализу текста.
+keywords:
+  - stylometry
+  - Russian
+  - Digital Humanities
+license: GPL-3.0
