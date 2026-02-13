@@ -93,6 +93,12 @@
 * [О прозе и переводах Набокова](https://nevmenandr.github.io/portfolio/assets/pdf/nabokov_transl.pdf)
 * [Набоков и межвоенная проза](https://cyberleninka.ru/article/n/romany-vladimira-nabokova-v-kontekste-russkoy-mezhvoennoy-prozy-stilemetricheskiy-aspekt)
 
+### Научно-популярные материалы
+
+* [Как на самом деле определять автора с помощью компьютера?](https://habr.com/ru/articles/834912/)
+* [Как вычислить существование Виктора Пелевина при помощи местоимений и предлогов](https://knife.media/club/pelevin-existence/)
+* [Атрибуция текста: теория и практика](https://postnauka.org/faq/99046)
+
 ## Источники и корпуса
 
 * [Корпус Русская классика](https://ruscorpora.ru/s/JZ83o)
