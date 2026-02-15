@@ -46,11 +46,11 @@
 
 ## Результаты применения Delta Берроуза
 
-![cluster_analysis](19-1_CA_100_MFWs_Culled_0__Classic Delta__001.png)
+![cluster_analysis](19-1_CA_100_MFWs_Culled_0__Classic%20Delta__001.png)
 
 ## Файлы stylo
 
-* [Граф расстояний](19-1_CA_100_MFWs_Culled_0__Classic Delta_EDGES.csv)
+* [Граф расстояний](19-1_CA_100_MFWs_Culled_0__Classic%20Delta_EDGES.csv)
 * [Таблица расстояний](distance_table_100mfw_0c.txt)
 * [Список словоформ для анализа](features_analyzed_100mfw_0c.txt)
 * [Частотность проанализированных словоформ по текстам](frequencies_analyzed_100mfw_0c.txt)
