@@ -1,4 +1,4 @@
-file	status	sousce	words	features
+filename	status	sousce	words	features
 gener_nekrasov_t0.1.txt	Сгенерировано	model_1	9502	Температура: 0.1
 gener_nekrasov_t0.3.txt	Сгенерировано	model_1	9687	Температура: 0.3
 gener_nekrasov_t0.5.txt	Сгенерировано	model_1	9450	Температура: 0.5
