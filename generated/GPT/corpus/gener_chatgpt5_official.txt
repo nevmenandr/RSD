@@ -1,8 +1,3 @@
-ChatGPT 5
-промт: Generate a story in Russian about the life of an official in St. Petersburg in the 19th century. Make the text as long as possible.
-
-
-
  «Канцелярский снег»
 
  I. Утро, которое всегда одинаково
