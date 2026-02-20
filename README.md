@@ -49,7 +49,12 @@
 
 #### Научные
 
-##### По наукам
+[Объединенный набор для разных наук](author/nonfiction/science/combined/)
+
+##### По отдельным наукам
+
+* [История](author/nonfiction/science/history/)
+* [Богослвие](author/nonfiction/science/theology/)
 
 ### Тексты по жанрам
 
@@ -77,6 +82,7 @@
 ### Сгенерированные vs. естественные
 
 * [Стихотворные тексты, сгенерированные char-based LSTM-моделями](generated/char_lstm/)
+* [Прозаические тексты, сгенерированные моделями на основе архитектуры Transformer](generated/GPT/)
 
 ## Объем датасета
 
@@ -121,6 +127,7 @@
 
 * [Корпус Русская классика](https://ruscorpora.ru/s/JZ83o)
 * [Корпус нарративной прозы XIX в.](https://dataverse.pushdom.ru/dataset.xhtml?persistentId=doi%3A10.31860%2Fopenlit-2020.10-C004)
+* [Код и данные для статьи на Хабре про атрибуцию](https://github.com/nevmenandr/delta_illustr/)
 
 ## Стилеметрия или стилометрия?
 

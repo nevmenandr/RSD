@@ -1,4 +1,4 @@
-# Стихотворные тексты, сгенерированные char-based LSTM-моделями
+# Прозаические тексты, сгенерированные моделями на основе архитектуры Transformer
 
 ## Состав корпуса
 
@@ -26,3 +26,7 @@
 * [Частотность всех словоформ в текстах](table_with_frequencies.txt)
 * [Список словоформ](wordlist.txt)
 * [Конфигурационный файл stylo](stylo_config.txt)
+
+## Публикации
+
+[The AI Playwright: An Experiment in Literary Morphology](https://zenodo.org/records/10118816)
