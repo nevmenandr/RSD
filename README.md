@@ -22,6 +22,8 @@
 
 ###### XVIII в.
 
+[Прозаические художественные тексты XVIII века](author/fiction/period/18/)
+
 ###### Первая половина XIX в.
 
 [Прозаические художественные тексты первой половины XIX века](author/fiction/period/19-1/)
@@ -32,6 +34,8 @@
 * [Большой набор из текстов авторов](author/fiction/period/19-2/nonbrevia/)
 
 ###### Рубеж XIX-XX вв.
+
+[Прозаические художественные тексты рубежа XIX-XX веков](author/fiction/period/19-20/)
 
 ##### Автор vs. псевдоним
 
@@ -55,6 +59,8 @@
 
 * [История](author/nonfiction/science/history/)
 * [Богослвие](author/nonfiction/science/theology/)
+* [Психофизиология](author/nonfiction/science/psychophysiology/)
+* [Философия](author/nonfiction/science/philosophy/)
 
 ### Тексты по жанрам
 
@@ -114,8 +120,8 @@
 
 * [Об авторстве «Тихого Дона»](https://nevmenandr.github.io/portfolio/assets/pdf/QuietDon.pdf)
 * [О переводе «Илиады» А. И. Любжина](https://nevmenandr.github.io/portfolio/assets/pdf/aristeas.pdf)
-* [О прозе и переводах Набокова](https://nevmenandr.github.io/portfolio/assets/pdf/nabokov_transl.pdf)
-* [Набоков и межвоенная проза](https://cyberleninka.ru/article/n/romany-vladimira-nabokova-v-kontekste-russkoy-mezhvoennoy-prozy-stilemetricheskiy-aspekt)
+* [О прозе и переводах В. В. Набокова](https://nevmenandr.github.io/portfolio/assets/pdf/nabokov_transl.pdf)
+* [В. В. Набоков и межвоенная проза](https://cyberleninka.ru/article/n/romany-vladimira-nabokova-v-kontekste-russkoy-mezhvoennoy-prozy-stilemetricheskiy-aspekt)
 
 ### Научно-популярные материалы
 
@@ -128,6 +134,7 @@
 * [Корпус Русская классика](https://ruscorpora.ru/s/JZ83o)
 * [Корпус нарративной прозы XIX в.](https://dataverse.pushdom.ru/dataset.xhtml?persistentId=doi%3A10.31860%2Fopenlit-2020.10-C004)
 * [Код и данные для статьи на Хабре про атрибуцию](https://github.com/nevmenandr/delta_illustr/)
+* [Поэтический корпус русского языка](https://github.com/IlyaGusev/PoetryCorpus)
 
 ## Стилеметрия или стилометрия?
 
