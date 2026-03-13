@@ -4,7 +4,7 @@
 
 | Имя файла  | Автор | Название | Дата создания | Жанр | Количество слов | Источник |
 | --- | --- | --- | --- | --- | --- | --- |
-| `bulgakov_vvedenie.txt` | митрополит Макарий (Булгаков) | Введение в православное богословие | трактат | 1845 | 26223 | [Азбука веры](https://azbyka.ru/otechnik/Makarij_Bulgakov/vvedenie-v-pravoslavnoe-bogoslovie/) |
+| `bulgakov_vvedenie.txt` | митрополит Макарий (Булгаков) | Введение в православное богословие | 1845 | трактат | 26223 | [Азбука веры](https://azbyka.ru/otechnik/Makarij_Bulgakov/vvedenie-v-pravoslavnoe-bogoslovie/) |
 | `bulgakov_istoriya.txt` | митрополит Макарий (Булгаков) | История христианства в России до равноапостольного князя Владимира, как введение в историю Русской Церкви | 1846 | трактат | 21803 | [Азбука веры](https://azbyka.ru/otechnik/Makarij_Bulgakov/istorija-hristianstva-v-rossii-do-ravnoapostolnogo-knjazja-vladimira-kak-vvedenie-v-istoriyu-russkoj-tserkvi/) |
 | `gorsky_vasiliy.txt` | протоиерей Александр Горский | Жизнь Св. Василия Великого | 1845 | трактат | 21503 | [Азбука веры](https://azbyka.ru/otechnik/Aleksandr_Gorskij/zhizn-svjatogo-vasilija-velikogo-arhiepiskopa-kesarijskogo/) |
 | `gorsky_istoriya1.txt` | протоиерей Александр Горский | История Евангельская | 1850 | трактат | 24015 | [Азбука веры](https://azbyka.ru/otechnik/Aleksandr_Gorskij/istorija-evangelskaja-i-tserkvi-apostolskoj/) |
