@@ -46,3 +46,7 @@
 ## Публикации
 
 [The AI Playwright: An Experiment in Literary Morphology](https://zenodo.org/records/10118816)
+
+## Благодарности
+
+Благодарю Дарью Гайтукиеву за помощь с созданием текстового набора.

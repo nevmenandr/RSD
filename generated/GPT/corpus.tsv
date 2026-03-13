@@ -1,0 +1,20 @@
+filename	status	source	words	features
+gener_chatgpt5_peasants1.txt	Сгенерировано	ChatGPT 5	10267	Промпт: Generate a short story in Russian about life in a village in the 19th century.
+gener_chatgpt5_peasants2.txt	Сгенерировано	ChatGPT 5	10496	Промпт: Generate a story in Russian about life in a village in the 19th century.
+gener_chatgpt5_official.txt	Сгенерировано	ChatGPT 5	5714	Промпт: Generate a story in Russian about the life of an official in St. Petersburg in the 19th century. 
+gener_aliceai_official.txt	Сгенерировано	AliceAI	5508	Промпт: Напиши художественную повесть про жизнь чиновника в Петербурге в XIX веке
+gener_gigachat_official.txt	Сгенерировано	GigaChat	12780	Промпт: Напиши художественную повесть про жизнь чиновника в Петербурге в XIX веке
+gener_gigachat_peasants.txt	Сгенерировано	GigaChat	12961	Промпт: Напиши художественную повесть про жизнь в деревне в XIX веке
+gener_saiga_official.txt	Сгенерировано	Saiga	10016	Промпт: Напиши художественную повесть про жизнь чиновника в Петербурге в XIX веке
+gener_saiga_peasants.txt	Сгенерировано	Saiga	8726	Промпт: Напиши художественную повесть про жизнь в деревне в XIX веке
+gener_yandex.api_official.txt	Сгенерировано	Yandex	11410	Промпт: Напиши художественную повесть про жизнь чиновника в Петербурге в XIX веке
+gener_yandex.api_peasants.txt	Сгенерировано	Yandex	14208	Промпт: Напиши художественную повесть про жизнь в деревне в XIX веке
+natur_gogol_nos.txt	Естественного происхождения	Н. В. Гоголь «Нос»	7729	N/A
+natur_gogol_shinel.txt	Естественного происхождения	Н. В. Гоголь «Шинель»	10144	N/A
+natur_goncharov_istoriya1.txt	Естественного происхождения	И. А. Гончаров «Обыкновенная история»	10008	N/A
+natur_goncharov_istoriya2.txt	Естественного происхождения	И. А. Гончаров «Обыкновенная история»	9009	N/A
+natur_goncharov_istoriya3.txt	Естественного происхождения	И. А. Гончаров «Обыкновенная история»	8720	N/A
+natur_turgenev_zapiski1.txt	Естественного происхождения	И. С. Тургенев «Хорь и Калиныч», «Ермолай и мельничиха», «Малиновая вода»	9588	N/A
+natur_turgenev_zapiski2.txt	Естественного происхождения	И. С. Тургенев «Уездный лекарь», «Мой сосед Радилов», «Однодворец Овсяников»	10578	N/A
+natur_turgenev_zapiski3.txt	Естественного происхождения	И. С. Тургенев «Льгов», «Бежин луг», «Касьян с Красивой Мечи»	14398	N/A
+natur_turgenev_zapiski4.txt	Естественного происхождения	И. С. Тургенев «Бурмистр», «Контора», «Бирюк»	10469	N/A
