@@ -60,7 +60,7 @@
 ##### По отдельным наукам
 
 * [История](author/nonfiction/science/history/)
-* [Богослвие](author/nonfiction/science/theology/)
+* [Богословие](author/nonfiction/science/theology/)
 * [Психофизиология](author/nonfiction/science/psychophysiology/)
 * [Философия](author/nonfiction/science/philosophy/)
 
