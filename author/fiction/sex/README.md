@@ -10,6 +10,12 @@
 | `fem_semeinye.txt` | Н. П. Шаликова | Семейные сцены | 1856 | повесть | 34259 | женский | Русский Вестник, № 17-18, 1856 |
 | `fem_zhena.txt` | Е. М. Шаврова | Жена Цезаря | 1897 | рассказ | 10305 | женский | Писатели чеховской поры: Избранные произведения писателей 80―90-х годов: В 2-х т. М.: «Художественная литература», 1982. Т. 2 |
 
+| `musc_kreytserova.txt` | Л. Н. Толстой | Крейцерова соната | 1890 | повесть | 25502 | мужской | [Корпус нарративной прозы](https://dataverse.pushdom.ru/dataset.xhtml?persistentId=doi%3A10.31860%2Fopenlit-2020.10-C004) |
+| `musc_step.txt` | А. П. Чехов | Степь | 1888 | повесть | 28393 | мужской | [Корпус нарративной прозы](https://dataverse.pushdom.ru/dataset.xhtml?persistentId=doi%3A10.31860%2Fopenlit-2020.10-C004) |
+| `musc_slepoy.txt` | В. Г. Короленко | Слепой музыкант | 1888 | повесть | 37113 | мужской | [Корпус нарративной прозы](https://dataverse.pushdom.ru/dataset.xhtml?persistentId=doi%3A10.31860%2Fopenlit-2020.10-C004) |
+| `musc_polunoshchniki.txt` | Н. С. Лесков | Полунощники | 1893 | повесть | 29020 | мужской | [Корпус нарративной прозы](https://dataverse.pushdom.ru/dataset.xhtml?persistentId=doi%3A10.31860%2Fopenlit-2020.10-C004) |
+| `musc_zoloto.txt` | Д. Мамин-Сибиряк | Золото | 1895 | роман | 81696 | мужской | [Корпус нарративной прозы](https://dataverse.pushdom.ru/dataset.xhtml?persistentId=doi%3A10.31860%2Fopenlit-2020.10-C004) |
+
 
 
 ## Машиночитаемая таблица с данными о корпусе
