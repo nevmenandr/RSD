@@ -137,6 +137,7 @@
 * [Корпус нарративной прозы XIX в.](https://dataverse.pushdom.ru/dataset.xhtml?persistentId=doi%3A10.31860%2Fopenlit-2020.10-C004)
 * [Код и данные для статьи на Хабре про атрибуцию](https://github.com/nevmenandr/delta_illustr/)
 * [Поэтический корпус русского языка](https://github.com/IlyaGusev/PoetryCorpus)
+* [Русский драматический корпус](https://dracor.org/rus)
 
 ## Стилеметрия или стилометрия?
 
