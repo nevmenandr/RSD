@@ -1,0 +1,13 @@
+Source,Target,Weight,Type
+gorodnichij_1,gorodnichij_2,6,undirected
+gorodnichij_1,hlestakov_1,3,undirected
+gorodnichij_1,hlestakov_2,2,undirected
+gorodnichij_2,gorodnichij_1,6,undirected
+gorodnichij_2,hlestakov_1,4,undirected
+gorodnichij_2,hlestakov_2,3,undirected
+hlestakov_1,gorodnichij_1,3,undirected
+hlestakov_1,gorodnichij_2,4,undirected
+hlestakov_1,hlestakov_2,6,undirected
+hlestakov_2,gorodnichij_1,2,undirected
+hlestakov_2,gorodnichij_2,3,undirected
+hlestakov_2,hlestakov_1,6,undirected

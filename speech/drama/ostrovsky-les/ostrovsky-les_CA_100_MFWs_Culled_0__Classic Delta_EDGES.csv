@@ -1,0 +1,13 @@
+Source,Target,Weight,Type
+gurmyzhskaja_1,gurmyzhskaja_2,6,undirected
+gurmyzhskaja_1,neschastlivtsev_1,3,undirected
+gurmyzhskaja_1,neschastlivtsev_2,4,undirected
+gurmyzhskaja_2,gurmyzhskaja_1,6,undirected
+gurmyzhskaja_2,neschastlivtsev_1,3,undirected
+gurmyzhskaja_2,neschastlivtsev_2,2,undirected
+neschastlivtsev_1,gurmyzhskaja_1,3,undirected
+neschastlivtsev_1,gurmyzhskaja_2,3,undirected
+neschastlivtsev_1,neschastlivtsev_2,6,undirected
+neschastlivtsev_2,gurmyzhskaja_1,4,undirected
+neschastlivtsev_2,gurmyzhskaja_2,2,undirected
+neschastlivtsev_2,neschastlivtsev_1,6,undirected

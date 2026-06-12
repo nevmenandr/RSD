@@ -1,0 +1,13 @@
+Source,Target,Weight,Type
+lidiya_1,lidiya_2,6,undirected
+lidiya_1,telyatev_1,4,undirected
+lidiya_1,telyatev_2,2,undirected
+lidiya_2,lidiya_1,6,undirected
+lidiya_2,telyatev_1,2,undirected
+lidiya_2,telyatev_2,4,undirected
+telyatev_1,lidiya_1,4,undirected
+telyatev_1,lidiya_2,2,undirected
+telyatev_1,telyatev_2,6,undirected
+telyatev_2,lidiya_1,2,undirected
+telyatev_2,lidiya_2,4,undirected
+telyatev_2,telyatev_1,6,undirected

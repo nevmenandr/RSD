@@ -83,6 +83,10 @@
 
 #### Драматургия
 
+* [](speech/drama/gogol-revizor)
+* [](speech/drama/ostrovsky-beshenye-dengi)
+* [](speech/drama/ostrovsky-les)
+
 ### Сгенерированные и естественные
 
 * [Стихотворные тексты, сгенерированные char-based LSTM-моделями](generated/char_lstm/)
