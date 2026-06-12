@@ -83,9 +83,9 @@
 
 #### Драматургия
 
-* [](speech/drama/gogol-revizor)
-* [](speech/drama/ostrovsky-beshenye-dengi)
-* [](speech/drama/ostrovsky-les)
+* [Н. В. Гоголь «Ревизор»](speech/drama/gogol-revizor)
+* [А. Н. Островский «Бешеные деньги»](speech/drama/ostrovsky-beshenye-dengi)
+* [А. Н. Островский «Лес»](speech/drama/ostrovsky-les)
 
 ### Сгенерированные и естественные
 
