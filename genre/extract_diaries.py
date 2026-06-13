@@ -204,7 +204,7 @@ def parse_simple_values(values_str):
 
 
 if __name__ == "__main__":
-    sql_file = "/home/boris/Work/prozhito/diary.sql"
+    sql_file = "diary.sql"
     output_dir = "extracted_diaries"
     
     if not os.path.exists(sql_file):
