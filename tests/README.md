@@ -47,7 +47,7 @@ python3 check_corpus_consistency.py
 #### Пример вывода
 
 ```
-🔍 Поиск папок 'corpus' в /home/boris/Work/RSD/
+🔍 Поиск папок 'corpus' в RSD/
 Найдено 3 папок 'corpus'
 
 📂 Проверка: RSD/project1/corpus
