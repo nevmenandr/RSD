@@ -1,0 +1,13 @@
+Source,Target,Weight,Type
+30_masalskiy,30_veltman,6,undirected
+30_masalskiy,50_begichev,3,undirected
+30_masalskiy,50_pogorelsky,4,undirected
+30_veltman,30_masalskiy,6,undirected
+30_veltman,50_begichev,2,undirected
+30_veltman,50_pogorelsky,3,undirected
+50_begichev,30_masalskiy,3,undirected
+50_begichev,30_veltman,2,undirected
+50_begichev,50_pogorelsky,6,undirected
+50_pogorelsky,30_masalskiy,4,undirected
+50_pogorelsky,30_veltman,3,undirected
+50_pogorelsky,50_begichev,6,undirected
