@@ -51,6 +51,8 @@
 
 #### Публицистические
 
+[Публицистика второй половины XIX века](author/nonfiction/journalism/)
+
 #### Научные
 
 [Объединенный набор для разных наук](author/nonfiction/science/combined/)
@@ -70,6 +72,8 @@
 
 #### Художественные
 
+[Романтизм и реализм](style/)
+
 #### Публицистические
 
 [Западники и славянофилы](journalism/)
@@ -83,11 +87,13 @@
 
 #### Проза
 
+* [Л. Н. Толстой «Война и мир»](speech/prose/tolstoy-voyna-i-mir/)
+
 #### Драматургия
 
-* [Н. В. Гоголь «Ревизор»](speech/drama/gogol-revizor)
-* [А. Н. Островский «Бешеные деньги»](speech/drama/ostrovsky-beshenye-dengi)
-* [А. Н. Островский «Лес»](speech/drama/ostrovsky-les)
+* [Н. В. Гоголь «Ревизор»](speech/drama/gogol-revizor/)
+* [А. Н. Островский «Бешеные деньги»](speech/drama/ostrovsky-beshenye-dengi/)
+* [А. Н. Островский «Лес»](speech/drama/ostrovsky-les/)
 
 ### Сгенерированные и естественные
 
