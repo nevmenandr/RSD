@@ -146,7 +146,7 @@ def calculate_dataset_stats(root_dir):
     }
 
 def main():
-    root_dir = "/home/boris/Work/RSD/"
+    root_dir = "."
     
     if not os.path.exists(root_dir):
         print(f"❌ Ошибка: Директория `{root_dir}` не существует")
