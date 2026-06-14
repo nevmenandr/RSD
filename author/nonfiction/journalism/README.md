@@ -4,8 +4,8 @@
 
 | Имя файла  | Автор | Название | Дата создания | Жанр | Количество слов | Источник |
 | --- | --- | --- | --- | --- | --- | --- |
-| `herzen_natura.txt` | А. И. Герцен | Письма об изучении природы | 1844 | очерк | 29572 | [lib.ru](http://az.lib.ru/g/gercen_a_i/text_0400-1.shtml) |
-| `herzen_natura.txt` | А. И. Герцен | Письма об изучении природы | 1845 | очерк | 38474 | [lib.ru](http://az.lib.ru/g/gercen_a_i/text_0400-1.shtml) |
+| `herzen_natura1.txt` | А. И. Герцен | Письма об изучении природы | 1844 | очерк | 29572 | [lib.ru](http://az.lib.ru/g/gercen_a_i/text_0400-1.shtml) |
+| `herzen_natura2.txt` | А. И. Герцен | Письма об изучении природы | 1845 | очерк | 38474 | [lib.ru](http://az.lib.ru/g/gercen_a_i/text_0400-1.shtml) |
 | `herzen_russkie.txt` | А. И. Герцен | Русские немцы и немецкие русские | 1849 | очерк | 12380 | [lib.ru](http://az.lib.ru/g/gercen_a_i/text_0180.shtml) |
 | `herzen_notes.txt` | А. И. Герцен | Записки одного молодого человека | 1838-1841 | очерк | 17726 | [lib.ru](http://az.lib.ru/g/gercen_a_i/text_0172.shtml) |
 | `annenkov_letters.txt` | П. В. Анненков | Письма из-за границы | 1840-1843 | очерк | 34962 | [lib.ru](http://az.lib.ru/a/annenkow_p_w/text_0030.shtml) |
