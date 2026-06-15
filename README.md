@@ -1,4 +1,5 @@
- ![dataset](https://img.shields.io/badge/dataset-8A2BE2) ![DH](https://img.shields.io/badge/digital-humanities-blue)  ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) 
+ ![dataset](https://img.shields.io/badge/dataset-8A2BE2) ![DH](https://img.shields.io/badge/digital-humanities-blue)  ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) [![DOI](https://zenodo.org/badge/1156733651.svg)](https://doi.org/10.5281/zenodo.20701309)
+
 
 # Русский стилеметрический датасет
 
@@ -9,6 +10,8 @@
 ## Библиографическая ссылка
 
 Если вы используете этот датасет в научной работе, пожалуйста, сошлитесь на него в своей публикации:
+
+`Орехов Б. Русский стилеметрический датасет : [набор данных] / Б. Орехов. — Версия 1.0. — Zenodo, 2026. — DOI: 10.5281/zenodo.20701309.` (ГОСТ)
 
 ## Состав датасета
 

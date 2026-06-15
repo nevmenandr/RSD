@@ -11,6 +11,9 @@ authors:
     email: nevmenandr@gmail.com
     affiliation: 'НИУ ВШЭ, ИРЛИ РАН'
     orcid: 'https://orcid.org/0000-0002-9099-0436'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.20701309
 repository-code: 'https://github.com/nevmenandr/RSD'
 abstract: >-
   В репозитории размещены русскоязычные тексты,
@@ -27,3 +30,7 @@ keywords:
   - Russian
   - Digital Humanities
 license: GPL-3.0
+commit: h365398676afd9674ed7a424a64dccab6c6b16e7c
+version: '1.0'
+date-released: '2026-06-15'
+
