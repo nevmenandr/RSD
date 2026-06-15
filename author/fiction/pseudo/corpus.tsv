@@ -1,0 +1,9 @@
+filename	author	title	year	genre	words	status	source
+author_step.txt	А. П. Чехов	Степь	1888	повесть	28380	ilibrary.ru
+author_duel.txt	А. П. Чехов	Дуэль	1891	повесть	30734	ilibrary.ru
+author_palata.txt	А. П. Чехов	Палата № 6	1892	повесть	16228	ilibrary.ru
+author_dull.txt	А. П. Чехов	Скучная история	1889	повесть	18325	ilibrary.ru
+pseudo_drama.txt	Антоша Чехонте	Драма на охоте	1884—1885	повесть	53594	ilibrary.ru
+pseudo_tsvety.txt	Антоша Чехонте	Цветы запоздалые	1882	повесть	11532	ilibrary.ru
+pseudo_victory.txt	Антоша Чехонте	Ненужная победа	1882	рассказ	24728	ilibrary.ru
+pseudo_barynya.txt	Антоша Чехонте	Барыня	1882	повесть	5574	ilibrary.ru
