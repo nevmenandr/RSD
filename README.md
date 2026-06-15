@@ -1,4 +1,4 @@
- ![dataset](https://img.shields.io/badge/dataset-8A2BE2) ![DH](https://img.shields.io/badge/digital-humanities-blue)  ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) [![DOI](https://zenodo.org/badge/1156733651.svg)](https://doi.org/10.5281/zenodo.20701309)
+ ![dataset](https://img.shields.io/badge/dataset-8A2BE2) ![DH](https://img.shields.io/badge/digital-humanities-blue) [![DOI](https://zenodo.org/badge/1156733651.svg)](https://doi.org/10.5281/zenodo.20701309) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
 
 
 # Русский стилеметрический датасет
